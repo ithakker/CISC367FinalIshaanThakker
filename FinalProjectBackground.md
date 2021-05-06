@@ -18,16 +18,16 @@ Like any currency, cryptocurrencies gain their value based on the scale of commu
 
 1. Which currencies have a leading position in the market?
 2. How can daily return of cryptocurrencies be modeled with distributions?
-3. What is the best currency to buy?
-4. How can risk be managed when investing in crypto?
+3. When choosing between two currencies, how can one be deemed a better investment?
+4. Using machine learning, which currency or currencies are the best to buy?
 
+With the first question I want to identify specifically how the cryptocurrency market is emerging, and how many currencies survive with time and how many die out. In exploring the second question, I want to explore the statistical characteristics of daily return and if there is a correlation between other currencies. With the third question, I want to use regression models to explain the dynamics of Crypto and compare between different choices. The last question I hope to use machine learning techniques such as K-means to find the optimal cryptocurrency.
 These questions are the general topics that I wish to explore but as I do more research they might subject to change.
 
 
 ## Justification
 
-
-Just like any investment, people should have the right knowledge when putting their hard earned money into something that they hope to have positive returns. Since crypto is a fairly new concept for most people I am hoping that my anaysis can shed some light on the fundamentals of crypto.
+Before entering the space of cryptocurrencies, it is important to know some of the terminology. I will go over some of the techical terms which may be familiar to anyone who has some knowledge of the stock market since the crypto and stock market have similarities. People should care about this market because I along with many others believe that it is the future. Institutional companies have invested large sums of money into this space. But cryptocurrency is important and it is not going away, or be limited to 100 years as others may speculate: transactions are fast, digital, secure and worldwide, which in essence allow the maintenance of records without risk of data being pirated. Fraud is, actually, minimized. <sup> 2 <sup>. Just like any investment, people should have the right knowledge when putting their hard earned money into something that they hope to have positive returns. Since crypto is a fairly new concept for most people I am hoping that my anaysis can shed some light on the fundamentals of crypto.
 
 ## Dataset:
 
@@ -41,13 +41,14 @@ A historic open, high, low, close, values for all cryptocurrencies (as of May 20
 ## Ethical Concerns
 
 
-The ethical concerns relating to this problem are actually quite significant. First, people should never take anyones research and base it as their own when deciding to invest. It is important to learn key terms in the market before starting to invest. The research I will be doing only applies to my understand of crypto based on prior experience. That is not to say that people should not view my research it is simply to make sure each person does their own due diligence. Crytocurrency is by no means the safest investment and no one should allocate a large of there investment money into it. In terms of data, I this dataset is good but I has not been updated since 2018 but I feel like I will be able to get the answers to the questions that I want to explore.
-
+The ethical concerns relating to this problem are actually quite significant. First, people should never take anyones research and base it as their own when deciding to invest. It is important to learn key terms in the market before starting to invest. The research I will be doing only applies to my understand of crypto based on prior experience. That is not to say that people should not view my research it is simply to make sure each person does their own due diligence. Crytocurrency is by no means the safest investment and no one should allocate a large of there investment money into it. In terms of the bigger picture, this analysis could show people that the potential for these currencies is legit and that following large institutions and comapanies in buying these currencies might be a valuable investment. Banks, miners, creators of currencies and the common investor are all groups that could be affected by this analysis. When it comes to the blockchain development stack, there are three layers: the application layer, the networking layer, and the protocol layer. Each of these layers have different stakeholders and play a different role in this space of cryptocurrency. My analysis will affect all three layers which I will go into further detail with my analysis. 
 
 ## References
 
 
-<sup>1 </sup>  https://coinmarketcap.com/
+<sup> 1 </sup>  https://coinmarketcap.com/
+<sup> 1 <sup>  https://www.conyers.com/publications/view/why-is-crypto-so-important-and-should-i-care/#:~:text=It%20became%20the%20absolutely%20wrong%20time%20to%20buy%20crypto.&text=But%20cryptocurrency%20is%20important%20and,risk%20of%20data%20being%20pirated.
+
 
 
 
