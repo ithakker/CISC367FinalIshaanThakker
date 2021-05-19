@@ -17,7 +17,7 @@ Like any currency, cryptocurrencies gain their value based on the scale of commu
 
 
 1. Which currencies have a leading position in the market?
-2. How can daily return of cryptocurrencies be modeled with distributions?
+2. How can moving averages and price fluctuations of cryptocurrencies be modeled with distributions?
 3. When choosing between two currencies, how can one be deemed a better investment?
 4. Using machine learning, which currency or currencies are the best to buy?
 
