@@ -1,4 +1,4 @@
-# Midterm Project Background
+# Final Project Background
 
 ## Rise of Cryptocurrencies
 
