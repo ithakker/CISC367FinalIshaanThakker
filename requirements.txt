@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+datetime
+warnings
+pandas_datareader
